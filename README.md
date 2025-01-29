@@ -20,7 +20,7 @@ Versão do Joblib:  1.4.2<br>
 import pandas as pd
 import joblib
 ```
-### Passo 4: Baixe o arquivo 'Modelo_Previsao.pkl' neste repositório e coloque-o na mesma pasta onde o Jupyter Notebook está.
+### Passo 4: Gere o arquivo 'Modelo_Previsao.pkl' a partir do Notebook que está neste repositório e coloque-o na mesma pasta onde o seu Jupyter Notebook está.
 ### Passo 5: Importe o modelo de previsão com o Joblib:
 ```
 modelo = joblib.load('Modelo_Previsao.pkl')

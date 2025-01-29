@@ -10,12 +10,12 @@ Versão do Python:  3.12.7 | packaged by Anaconda, Inc.<br>
 Versão do Joblib:  1.4.2<br>
 
 ### Passo 1: Crie um novo Jupyter Notebook.
-### Passo 2: Instale dependências com os seguintes comandos (caso não já tenha instalado:
+### Passo 2: Instale as bibliotecas com os seguintes comandos (caso não tenha instalado):
 ```
 !pip install pandas
 !pip install joblib
 ```
-### Passo 2: Agora os importe com os seguintes códigos:
+### Passo 2: Agora as importe com os seguintes códigos:
 ```
 import pandas as pd
 import joblib
